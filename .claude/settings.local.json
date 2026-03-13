@@ -49,7 +49,9 @@
       "Bash(rm prompt_BACKUP_original.txt && echo \"Backup falso eliminado\" && ls -lh prompt*.txt)",
       "Bash(ls -d C:\\\\Users\\\\raulv\\\\Proyectos\\\\*/ | head -20)",
       "Read(//c/Users/raulv/**)",
-      "Bash(ls -d Proyectos/*/)"
+      "Bash(ls -d Proyectos/*/)",
+      "Bash(git config:*)",
+      "Bash(gh auth:*)"
     ]
   }
 }
